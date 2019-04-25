@@ -150,5 +150,15 @@ namespace ProjetoFontes
         {
 
         }
+
+        private void btn_pdf_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void txbox_receber_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -88,6 +88,7 @@
             this.txbox_receber.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txbox_receber.Size = new System.Drawing.Size(431, 554);
             this.txbox_receber.TabIndex = 4;
+            this.txbox_receber.TextChanged += new System.EventHandler(this.txbox_receber_TextChanged);
             // 
             // timer_com
             // 
@@ -102,6 +103,7 @@
             this.btn_pdf.TabIndex = 5;
             this.btn_pdf.Text = "Gerar Relatório";
             this.btn_pdf.UseVisualStyleBackColor = true;
+            this.btn_pdf.Click += new System.EventHandler(this.btn_pdf_Click);
             // 
             // textBox1
             // 
