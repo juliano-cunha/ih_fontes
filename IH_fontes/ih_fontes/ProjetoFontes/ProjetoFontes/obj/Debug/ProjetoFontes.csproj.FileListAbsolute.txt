@@ -1,0 +1,20 @@
+c:\users\juliano.cunha\source\repos\ProjetoFontes\ProjetoFontes\bin\Debug\ProjetoFontes.exe.config
+c:\users\juliano.cunha\source\repos\ProjetoFontes\ProjetoFontes\bin\Debug\ProjetoFontes.exe
+c:\users\juliano.cunha\source\repos\ProjetoFontes\ProjetoFontes\bin\Debug\ProjetoFontes.pdb
+c:\users\juliano.cunha\source\repos\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.csprojAssemblyReference.cache
+c:\users\juliano.cunha\source\repos\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.Form1.resources
+c:\users\juliano.cunha\source\repos\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.Properties.Resources.resources
+c:\users\juliano.cunha\source\repos\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.csproj.GenerateResource.cache
+c:\users\juliano.cunha\source\repos\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.csproj.CoreCompileInputs.cache
+c:\users\juliano.cunha\source\repos\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.exe
+c:\users\juliano.cunha\source\repos\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Projetinho_fontes\ProjetoFontes\ProjetoFontes\bin\Debug\ProjetoFontes.exe.config
+C:\Users\julia\OneDrive\Área de Trabalho\Projetinho_fontes\ProjetoFontes\ProjetoFontes\bin\Debug\ProjetoFontes.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Projetinho_fontes\ProjetoFontes\ProjetoFontes\bin\Debug\ProjetoFontes.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Projetinho_fontes\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Projetinho_fontes\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.Form1.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Projetinho_fontes\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Projetinho_fontes\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Projetinho_fontes\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Projetinho_fontes\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Projetinho_fontes\ProjetoFontes\ProjetoFontes\obj\Debug\ProjetoFontes.pdb
